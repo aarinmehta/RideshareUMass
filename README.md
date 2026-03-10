@@ -1,5 +1,6 @@
 # RideshareUMass
-RideShare Project for 
+RideshareUMass
+
 
 
 
